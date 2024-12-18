@@ -22,3 +22,6 @@ An astrology-powered personal assistant providing daily horoscopes, personalized
 
 ## 📂 Project Structure
 
+---
+
+
