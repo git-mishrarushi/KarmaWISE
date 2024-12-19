@@ -1,7 +1,7 @@
-# AstroAssistant 
+# KarmaWISE
 An astrology-powered personal assistant providing daily horoscopes, personalized advice, and insights based on celestial movements.
 
-## Features of AstroAssistant :-
+## Features of KarmaWISE :-
 - **Daily Horoscopes**: Get personalized predictions based on your zodiac sign or natal chart.
 - **Mood Tracking**: Discover how celestial transits impact your mood and energy levels.
 - **Personalized Advice**: Receive tailored suggestions for activities, schedules, and more.
