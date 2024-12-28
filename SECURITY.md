@@ -17,7 +17,7 @@ If you discover a security vulnerability in **KarmaWise**, please help us ensure
    Avoid sharing details of the vulnerability on public forums or in GitHub Issues.
 
 2. **Contact the team directly.**  
-   Send a detailed report to **[your_email@example.com]** or use our secure reporting form [add link if available].
+   Send a detailed report to **mishrarushi15@gmail.com** or use our secure reporting form [add link if available].
 
 3. **Include the following details in your report:**  
    - A clear description of the vulnerability.
