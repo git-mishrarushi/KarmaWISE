@@ -2,8 +2,8 @@
 An astrology-powered personal assistant providing daily horoscopes, personalized advice, and insights based on celestial movements.
 
 ## Features of KarmaWISE :-
-- **Daily Horoscopes**: Get personalized predictions based on your zodiac sign or natal chart.
-- **Mood Tracking**: Discover how celestial transits impact your mood and energy levels.
+- **Daily Horoscopes**: Get personalized predictions based on your zodiac sign and natal chart.
+- **Mood Tracking**: Discover how celestial transits impact your mood and energy levels. 
 - **Personalized Advice**: Receive tailored suggestions for activities, schedules, and more.
 - **Astrological Insights**: Understand the significance of planetary movements and their effects on you and your life.
 - **Conversation Support**: Ask specific questions about your day or future.
